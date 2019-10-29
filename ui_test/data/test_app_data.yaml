@@ -1,0 +1,13 @@
+test_login:  # 正常登录数据
+  phone: 18010181267
+  pwd: 123456
+
+test_login_negative: # 异常登录数据
+  - phone: 123456
+    pwd: 123456
+  - phone: 123
+    pwd: 123
+  - phone: 456
+    pwd: 000
+# [{"phone": "abc", "pwd": "123456"}, {}, {}]
+

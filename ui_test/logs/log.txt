@@ -1,0 +1,146 @@
+[2019/05/18 16:42:13] INFO [basecase.py:11] setUpClass: 启动app
+[2019/05/18 16:42:27] INFO [test_login.py:11] test_login_normal: 正常登录测试
+[2019/05/18 16:42:27] INFO [launchpage.py:12] click_login: 点击登录按钮
+[2019/05/18 16:42:27] INFO [basepage.py:48] click: 点击元素: ('id', 'com.lqr.wechat:id/btnLogin')
+[2019/05/18 16:42:27] INFO [basepage.py:15] find: 定位元素: ('id', 'com.lqr.wechat:id/btnLogin')
+[2019/05/18 16:42:29] INFO [login_page.py:29] login_action: 登录操作, 手机号: 18010181267, 密码: 123456
+[2019/05/18 16:42:29] INFO [login_page.py:14] input_mobile: 输入手机号: 18010181267
+[2019/05/18 16:42:29] INFO [basepage.py:53] input_to: 向元素: ('id', 'com.lqr.wechat:id/etPhone') 输入: 18010181267
+[2019/05/18 16:42:29] INFO [basepage.py:15] find: 定位元素: ('id', 'com.lqr.wechat:id/etPhone')
+[2019/05/18 16:42:38] INFO [login_page.py:19] input_pwd: 输入密码: 123456
+[2019/05/18 16:42:38] INFO [basepage.py:53] input_to: 向元素: ('id', 'com.lqr.wechat:id/etPwd') 输入: 123456
+[2019/05/18 16:42:38] INFO [basepage.py:15] find: 定位元素: ('id', 'com.lqr.wechat:id/etPwd')
+[2019/05/18 16:42:46] INFO [login_page.py:24] click_login: 点击登录按钮
+[2019/05/18 16:42:46] INFO [basepage.py:48] click: 点击元素: ('id', 'com.lqr.wechat:id/btnLogin')
+[2019/05/18 16:42:46] INFO [basepage.py:15] find: 定位元素: ('id', 'com.lqr.wechat:id/btnLogin')
+[2019/05/18 16:42:47] INFO [basecase.py:16] tearDownClass: 关闭app会话
+[2019/05/18 16:43:13] INFO [basecase.py:11] setUpClass: 启动app
+[2019/05/18 16:43:25] INFO [test_login.py:11] test_login_normal: 正常登录测试
+[2019/05/18 16:43:25] INFO [launchpage.py:12] click_login: 点击登录按钮
+[2019/05/18 16:43:25] INFO [basepage.py:48] click: 点击元素: ('id', 'com.lqr.wechat:id/btnLogin2')
+[2019/05/18 16:43:25] INFO [basepage.py:15] find: 定位元素: ('id', 'com.lqr.wechat:id/btnLogin2')
+[2019/05/18 16:43:26] ERROR [basepage.py:19] find: 定位元素失败: ('id', 'com.lqr.wechat:id/btnLogin2')
+[2019/05/18 16:43:26] INFO [basepage.py:66] snapshot: 截图, 保存路径: C:\Users\Secoo\Desktop\15期\Appium\uiauto\snapshots\定位失败_id_com.lqr.wechatidbtnLogin2.png
+[2019/05/18 16:43:28] INFO [basepage.py:60] wait: 等待: 0.5s
+[2019/05/18 16:43:29] INFO [basecase.py:16] tearDownClass: 关闭app会话
+[2019/05/18 17:02:02] INFO [basecase.py:11] setUpClass: 启动app
+[2019/05/18 17:02:18] INFO [test_login.py:12] test_login_normal: 正常登录测试
+[2019/05/18 17:02:18] INFO [launchpage.py:12] click_login: 点击登录按钮
+[2019/05/18 17:02:18] INFO [basepage.py:48] click: 点击元素: ('id', 'com.lqr.wechat:id/btnLogin')
+[2019/05/18 17:02:18] INFO [basepage.py:15] find: 定位元素: ('id', 'com.lqr.wechat:id/btnLogin')
+[2019/05/18 17:02:19] INFO [login_page.py:29] login_action: 登录操作, 手机号: 18010181267, 密码: 123456
+[2019/05/18 17:02:19] INFO [login_page.py:14] input_mobile: 输入手机号: 18010181267
+[2019/05/18 17:02:19] INFO [basepage.py:53] input_to: 向元素: ('id', 'com.lqr.wechat:id/etPhone') 输入: 18010181267
+[2019/05/18 17:02:19] INFO [basepage.py:15] find: 定位元素: ('id', 'com.lqr.wechat:id/etPhone')
+[2019/05/18 17:02:29] INFO [login_page.py:19] input_pwd: 输入密码: 123456
+[2019/05/18 17:02:29] INFO [basepage.py:53] input_to: 向元素: ('id', 'com.lqr.wechat:id/etPwd') 输入: 123456
+[2019/05/18 17:02:29] INFO [basepage.py:15] find: 定位元素: ('id', 'com.lqr.wechat:id/etPwd')
+[2019/05/18 17:02:37] INFO [login_page.py:24] click_login: 点击登录按钮
+[2019/05/18 17:02:37] INFO [basepage.py:48] click: 点击元素: ('id', 'com.lqr.wechat:id/btnLogin')
+[2019/05/18 17:02:37] INFO [basepage.py:15] find: 定位元素: ('id', 'com.lqr.wechat:id/btnLogin')
+[2019/05/18 17:02:38] INFO [basecase.py:16] tearDownClass: 关闭app会话
+[2019/05/18 17:06:16] INFO [basecase.py:11] setUpClass: 启动app
+[2019/05/18 17:06:31] INFO [test_login.py:11] test_login_normal: 正常登录测试
+[2019/05/18 17:06:31] INFO [launchpage.py:12] click_login: 点击登录按钮
+[2019/05/18 17:06:31] INFO [basepage.py:48] click: 点击元素: ('id', 'com.lqr.wechat:id/btnLogin')
+[2019/05/18 17:06:31] INFO [basepage.py:15] find: 定位元素: ('id', 'com.lqr.wechat:id/btnLogin')
+[2019/05/18 17:06:33] INFO [login_page.py:29] login_action: 登录操作, 手机号: 18010181267, 密码: 123456
+[2019/05/18 17:06:33] INFO [login_page.py:14] input_mobile: 输入手机号: 18010181267
+[2019/05/18 17:06:33] INFO [basepage.py:53] input_to: 向元素: ('id', 'com.lqr.wechat:id/etPhone') 输入: 18010181267
+[2019/05/18 17:06:33] INFO [basepage.py:15] find: 定位元素: ('id', 'com.lqr.wechat:id/etPhone')
+[2019/05/18 17:06:42] INFO [login_page.py:19] input_pwd: 输入密码: 123456
+[2019/05/18 17:06:42] INFO [basepage.py:53] input_to: 向元素: ('id', 'com.lqr.wechat:id/etPwd') 输入: 123456
+[2019/05/18 17:06:42] INFO [basepage.py:15] find: 定位元素: ('id', 'com.lqr.wechat:id/etPwd')
+[2019/05/18 17:06:50] INFO [login_page.py:24] click_login: 点击登录按钮
+[2019/05/18 17:06:50] INFO [basepage.py:48] click: 点击元素: ('id', 'com.lqr.wechat:id/btnLogin')
+[2019/05/18 17:06:50] INFO [basepage.py:15] find: 定位元素: ('id', 'com.lqr.wechat:id/btnLogin')
+[2019/05/18 17:06:51] INFO [basecase.py:20] wait: 等待: 2s
+[2019/05/18 17:06:53] INFO [mainpage.py:10] check_contants_ico: 检查联系人图标是否存在
+[2019/05/18 17:06:53] INFO [basepage.py:35] try_find: 尝试定位元素: ('id', 'com.lqr.wechat:id/tvContactsPress')
+[2019/05/18 17:06:54] INFO [basecase.py:16] tearDownClass: 关闭app会话
+[2019/05/18 18:01:54] INFO [basecase.py:11] setUpClass: 启动app
+[2019/05/18 18:02:09] INFO [launchpage.py:12] click_login: 点击登录按钮
+[2019/05/18 18:02:09] INFO [basepage.py:48] click: 点击元素: ('id', 'com.lqr.wechat:id/btnLogin')
+[2019/05/18 18:02:09] INFO [basepage.py:15] find: 定位元素: ('id', 'com.lqr.wechat:id/btnLogin')
+[2019/05/18 18:02:11] INFO [login_page.py:29] login_action: 登录操作, 手机号: abc, 密码: 123456
+[2019/05/18 18:02:11] INFO [login_page.py:14] input_mobile: 输入手机号: abc
+[2019/05/18 18:02:11] INFO [basepage.py:53] input_to: 向元素: ('id', 'com.lqr.wechat:id/etPhone') 输入: abc
+[2019/05/18 18:02:11] INFO [basepage.py:15] find: 定位元素: ('id', 'com.lqr.wechat:id/etPhone')
+[2019/05/18 18:02:20] INFO [login_page.py:19] input_pwd: 输入密码: 123456
+[2019/05/18 18:02:20] INFO [basepage.py:53] input_to: 向元素: ('id', 'com.lqr.wechat:id/etPwd') 输入: 123456
+[2019/05/18 18:02:20] INFO [basepage.py:15] find: 定位元素: ('id', 'com.lqr.wechat:id/etPwd')
+[2019/05/18 18:02:27] INFO [login_page.py:24] click_login: 点击登录按钮
+[2019/05/18 18:02:27] INFO [basepage.py:48] click: 点击元素: ('id', 'com.lqr.wechat:id/btnLogin')
+[2019/05/18 18:02:27] INFO [basepage.py:15] find: 定位元素: ('id', 'com.lqr.wechat:id/btnLogin')
+[2019/05/18 18:02:31] INFO [basecase.py:20] wait: 等待: 2s
+[2019/05/18 18:02:33] INFO [launchpage.py:12] click_login: 点击登录按钮
+[2019/05/18 18:02:33] INFO [basepage.py:48] click: 点击元素: ('id', 'com.lqr.wechat:id/btnLogin')
+[2019/05/18 18:02:33] INFO [basepage.py:15] find: 定位元素: ('id', 'com.lqr.wechat:id/btnLogin')
+[2019/05/18 18:02:36] INFO [login_page.py:29] login_action: 登录操作, 手机号: abcd, 密码: 123
+[2019/05/18 18:02:36] INFO [login_page.py:14] input_mobile: 输入手机号: abcd
+[2019/05/18 18:02:36] INFO [basepage.py:53] input_to: 向元素: ('id', 'com.lqr.wechat:id/etPhone') 输入: abcd
+[2019/05/18 18:02:36] INFO [basepage.py:15] find: 定位元素: ('id', 'com.lqr.wechat:id/etPhone')
+[2019/05/18 18:02:42] INFO [login_page.py:19] input_pwd: 输入密码: 123
+[2019/05/18 18:02:42] INFO [basepage.py:53] input_to: 向元素: ('id', 'com.lqr.wechat:id/etPwd') 输入: 123
+[2019/05/18 18:02:42] INFO [basepage.py:15] find: 定位元素: ('id', 'com.lqr.wechat:id/etPwd')
+[2019/05/18 18:02:49] INFO [login_page.py:24] click_login: 点击登录按钮
+[2019/05/18 18:02:49] INFO [basepage.py:48] click: 点击元素: ('id', 'com.lqr.wechat:id/btnLogin')
+[2019/05/18 18:02:49] INFO [basepage.py:15] find: 定位元素: ('id', 'com.lqr.wechat:id/btnLogin')
+[2019/05/18 18:02:53] INFO [basecase.py:20] wait: 等待: 2s
+[2019/05/18 18:02:55] INFO [basecase.py:16] tearDownClass: 关闭app会话
+[2019/05/18 18:07:11] INFO [basecase.py:11] setUpClass: 启动app
+[2019/05/18 18:07:26] INFO [launchpage.py:12] click_login: 点击登录按钮
+[2019/05/18 18:07:26] INFO [basepage.py:48] click: 点击元素: ('id', 'com.lqr.wechat:id/btnLogin')
+[2019/05/18 18:07:26] INFO [basepage.py:15] find: 定位元素: ('id', 'com.lqr.wechat:id/btnLogin')
+[2019/05/18 18:07:27] INFO [login_page.py:29] login_action: 登录操作, 手机号: 123456, 密码: 123456
+[2019/05/18 18:07:27] INFO [login_page.py:14] input_mobile: 输入手机号: 123456
+[2019/05/18 18:07:27] INFO [basepage.py:53] input_to: 向元素: ('id', 'com.lqr.wechat:id/etPhone') 输入: 123456
+[2019/05/18 18:07:27] INFO [basepage.py:15] find: 定位元素: ('id', 'com.lqr.wechat:id/etPhone')
+[2019/05/18 18:07:37] INFO [login_page.py:19] input_pwd: 输入密码: 123456
+[2019/05/18 18:07:37] INFO [basepage.py:53] input_to: 向元素: ('id', 'com.lqr.wechat:id/etPwd') 输入: 123456
+[2019/05/18 18:07:37] INFO [basepage.py:15] find: 定位元素: ('id', 'com.lqr.wechat:id/etPwd')
+[2019/05/18 18:07:45] INFO [login_page.py:24] click_login: 点击登录按钮
+[2019/05/18 18:07:45] INFO [basepage.py:48] click: 点击元素: ('id', 'com.lqr.wechat:id/btnLogin')
+[2019/05/18 18:07:45] INFO [basepage.py:15] find: 定位元素: ('id', 'com.lqr.wechat:id/btnLogin')
+[2019/05/18 18:07:46] INFO [basecase.py:20] wait: 等待: 2s
+[2019/05/18 18:07:48] INFO [launchpage.py:12] click_login: 点击登录按钮
+[2019/05/18 18:07:48] INFO [basepage.py:48] click: 点击元素: ('id', 'com.lqr.wechat:id/btnLogin')
+[2019/05/18 18:07:48] INFO [basepage.py:15] find: 定位元素: ('id', 'com.lqr.wechat:id/btnLogin')
+[2019/05/18 18:07:51] INFO [login_page.py:29] login_action: 登录操作, 手机号: 123, 密码: 123
+[2019/05/18 18:07:51] INFO [login_page.py:14] input_mobile: 输入手机号: 123
+[2019/05/18 18:07:51] INFO [basepage.py:53] input_to: 向元素: ('id', 'com.lqr.wechat:id/etPhone') 输入: 123
+[2019/05/18 18:07:51] INFO [basepage.py:15] find: 定位元素: ('id', 'com.lqr.wechat:id/etPhone')
+[2019/05/18 18:07:57] INFO [login_page.py:19] input_pwd: 输入密码: 123
+[2019/05/18 18:07:57] INFO [basepage.py:53] input_to: 向元素: ('id', 'com.lqr.wechat:id/etPwd') 输入: 123
+[2019/05/18 18:07:57] INFO [basepage.py:15] find: 定位元素: ('id', 'com.lqr.wechat:id/etPwd')
+[2019/05/18 18:08:05] INFO [login_page.py:24] click_login: 点击登录按钮
+[2019/05/18 18:08:05] INFO [basepage.py:48] click: 点击元素: ('id', 'com.lqr.wechat:id/btnLogin')
+[2019/05/18 18:08:05] INFO [basepage.py:15] find: 定位元素: ('id', 'com.lqr.wechat:id/btnLogin')
+[2019/05/18 18:08:09] INFO [basecase.py:20] wait: 等待: 2s
+[2019/05/18 18:08:11] INFO [launchpage.py:12] click_login: 点击登录按钮
+[2019/05/18 18:08:11] INFO [basepage.py:48] click: 点击元素: ('id', 'com.lqr.wechat:id/btnLogin')
+[2019/05/18 18:08:11] INFO [basepage.py:15] find: 定位元素: ('id', 'com.lqr.wechat:id/btnLogin')
+[2019/05/18 18:08:14] INFO [login_page.py:29] login_action: 登录操作, 手机号: 456, 密码: 0
+[2019/05/18 18:08:14] INFO [login_page.py:14] input_mobile: 输入手机号: 456
+[2019/05/18 18:08:14] INFO [basepage.py:53] input_to: 向元素: ('id', 'com.lqr.wechat:id/etPhone') 输入: 456
+[2019/05/18 18:08:14] INFO [basepage.py:15] find: 定位元素: ('id', 'com.lqr.wechat:id/etPhone')
+[2019/05/18 18:08:21] INFO [login_page.py:19] input_pwd: 输入密码: 0
+[2019/05/18 18:08:21] INFO [basepage.py:53] input_to: 向元素: ('id', 'com.lqr.wechat:id/etPwd') 输入: 0
+[2019/05/18 18:08:21] INFO [basepage.py:15] find: 定位元素: ('id', 'com.lqr.wechat:id/etPwd')
+[2019/05/18 18:08:29] INFO [login_page.py:24] click_login: 点击登录按钮
+[2019/05/18 18:08:29] INFO [basepage.py:48] click: 点击元素: ('id', 'com.lqr.wechat:id/btnLogin')
+[2019/05/18 18:08:29] INFO [basepage.py:15] find: 定位元素: ('id', 'com.lqr.wechat:id/btnLogin')
+[2019/05/18 18:08:33] INFO [basecase.py:20] wait: 等待: 2s
+[2019/05/18 18:08:35] INFO [basecase.py:16] tearDownClass: 关闭app会话
+[2019/05/25 11:37:40] INFO [basecase.py:11] setUpClass: 启动app
+[2019/05/25 11:37:41] INFO [remote_connection.py:117] __init__: Could not connect to port 4723 on host 127.0.0.1
+[2019/05/25 11:37:41] INFO [remote_connection.py:136] __init__: Could not get IP address for host: 127.0.0.1
+[2019/05/25 11:37:42] WARNING [connectionpool.py:662] urlopen: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0337B6D0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /wd/hub/session
+[2019/05/25 11:37:43] WARNING [connectionpool.py:662] urlopen: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0337B810>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /wd/hub/session
+[2019/05/25 11:37:44] WARNING [connectionpool.py:662] urlopen: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0337B8D0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /wd/hub/session
+[2019/05/25 11:57:31] INFO [basecase.py:11] setUpClass: 启动app
+[2019/05/25 11:57:32] INFO [remote_connection.py:117] __init__: Could not connect to port 4723 on host 127.0.0.1
+[2019/05/25 11:57:32] INFO [remote_connection.py:136] __init__: Could not get IP address for host: 127.0.0.1
+[2019/05/25 11:57:33] WARNING [connectionpool.py:662] urlopen: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x03E382F0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /wd/hub/session
+[2019/05/25 11:57:34] WARNING [connectionpool.py:662] urlopen: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x03E5BC10>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /wd/hub/session
+[2019/05/25 11:57:35] WARNING [connectionpool.py:662] urlopen: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x03E5BCD0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /wd/hub/session
